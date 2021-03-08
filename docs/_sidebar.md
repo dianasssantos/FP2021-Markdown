@@ -1,3 +1,5 @@
 * [Home](./)
 * [Sobre](./sobre.md)
-* [About](./en/about.md)
+* [English version]()
+   * [Home en](./en/home_en.md)
+   * [About](./en/about.md)
