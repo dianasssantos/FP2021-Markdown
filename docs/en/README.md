@@ -7,7 +7,7 @@ Diana Santos
 **Known programming languages:**
 * C
 * Java
-* Puthon
+* Python
 * C++
 * Perl
 
