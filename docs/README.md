@@ -8,7 +8,7 @@ Diana Santos
 **Linguagens de programação conhecidas:**
 * C
 * Java
-* Puthon
+* Python
 * C++
 * Perl
 
